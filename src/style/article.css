@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.content{
+    vertical-align: middle;
+    overflow-wrap: break-word;
+}
+
+
+@media (max-width:768px) {
+}
